@@ -1,35 +1,14 @@
-## Welcome to GitHub Pages
+# Multimodal Sensor Framework for Detecting Behavioral Patterns of Alzheimer's
+Noah J. Miller, Kristine C. Newman, Farhan S. Khan, Andrea H. Reid, David L. Martin
+ 
+_Department of Computer Science, University of Toronto Scarborough, Canada_
 
-You can use the [editor on GitHub](https://github.com/NoahMiller89/research/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Abstract
+ 
+People living with Alzheimer’s (PLwD) exhibit various behavioral and psychological experiences; agitation and aggression being the most common. Aggressive patients with Alzheimer’s can harm themselves, other patients and the staff. In the past, researchers have used actigraphy to detect incidences of agitation and aggression in persons with Alzheimer’s. However, actigraphy based solutions only consider body movement-based parameters. In this paper, we present a novel multi-modal sensing framework currently being installed and tested at Toronto Rehabilitation Institute, Canada. This framework uses video cameras, wearable device (for both movement and physiological data), motion and door sensors, and pressure mats to collect various types of data that may be used to detect and predict incidences of agitation and aggression in people with Alzheimer’s. In this paper, we discuss the data collection, data processing and data fusion aspects using each of the sensors. Using the   sensing platform, we present two pilot studies to demonstrate its effective functioning. We also discuss the challenges experienced with respect to ethics, hardware installation, software issues and data management.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[Research Paper](https://github.com/NoahMiller89/research/blob/main/Research%20Paper.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Project Demo](https://noah-miller-dbpa-app.mybluemix.net/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NoahMiller89/research/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
