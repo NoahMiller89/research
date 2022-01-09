@@ -10,6 +10,6 @@ People living with Alzheimer’s (PLwD) exhibit various behavioral and psycholog
 
 [Project Demo](https://noah-miller-dbpa-app.mybluemix.net/)
 
-Paper: <embed src="https://github.com/NoahMiller89/research/blob/gh-pages/Research%20Paper.pdf" type="application/pdf" />
+Paper: <embed src="https://noahmiller89.github.io/research/pdfs/Research-Paper.pdf" width="600px" height="500px" />
 
 
